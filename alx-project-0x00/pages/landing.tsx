@@ -18,6 +18,10 @@ const Landing: React.FC = () => {
         title="Buy"
         styles="text-sm rounded-full bg-green-500 hover:bg-green-500/50"
       />
+      <Button
+        title="Buy"
+        styles="text-sm rounded-lg bg-green-500 hover:bg-green-500/50"
+      />
     </div>
   );
 };
